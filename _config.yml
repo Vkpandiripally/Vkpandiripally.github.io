@@ -1,0 +1,18 @@
+author: Vidur Pandiripally
+github: Vkpandiripally
+linkedin: vkpandiripally/
+email: vkpandiripally@gmail.com
+
+sass:
+  sass_dir: _scss
+  style: compressed
+
+# Build settings
+markdown: kramdown
+
+timezone: America/Chicago
+timezone_short: CST
+
+# Serve
+# host: 0.0.0.0
+# port: 4000
